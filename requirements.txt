@@ -1,0 +1,16 @@
+astroid==2.12.5
+dill==0.3.5.1
+isort==5.10.1
+lazy-object-proxy==1.7.1
+mccabe==0.7.0
+platformdirs==2.5.2
+pylint==2.15.0
+PyQt5==5.15.7
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.11.0
+PyQtWebEngine==5.15.6
+PyQtWebEngine-Qt5==5.15.2
+tomli==2.0.1
+tomlkit==0.11.4
+typing-extensions==4.3.0
+wrapt==1.14.1
